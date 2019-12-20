@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Motor and Hardware",
-            "x": 167,
-            "y": 89,
+            "x": 196,
+            "y": 84,
             "uniqueID": 409854,
             "ioValues": [],
             "topLevel": false,
@@ -21,8 +21,8 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "M4x20 Bolt",
-                    "x": 108,
-                    "y": 174,
+                    "x": 70,
+                    "y": 186,
                     "uniqueID": 727130,
                     "projectID": "198850770",
                     "ioValues": []
@@ -30,9 +30,9 @@
                 {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 272,
-                    "y": 67,
-                    "uniqueID": 360000,
+                    "x": 203,
+                    "y": 181,
+                    "uniqueID": 969324,
                     "ioValues": [
                         {
                             "name": "x-axis degrees",
@@ -51,13 +51,13 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 289,
-                    "y": 137,
+                    "x": 307,
+                    "y": 140,
                     "uniqueID": 289428,
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 11.5
+                            "ioValue": 28.5
                         },
                         {
                             "name": "yDist",
@@ -65,7 +65,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 15
+                            "ioValue": -15
                         }
                     ]
                 },
@@ -140,10 +140,6 @@
                     "uniqueID": 809680,
                     "ioValues": [
                         {
-                            "name": "3D shape 1",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 2",
                             "ioValue": 10
                         },
@@ -157,6 +153,10 @@
                         },
                         {
                             "name": "3D shape 5",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 6",
                             "ioValue": 10
                         }
                     ],
@@ -173,24 +173,24 @@
             "allConnectors": [
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
+                    "ap2Name": "3D shape 6",
+                    "ap2Primary": false,
                     "ap1ID": 700131,
-                    "ap2ID": 360000
+                    "ap2ID": 809680
                 },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
                     "ap1ID": 727130,
-                    "ap2ID": 289428
+                    "ap2ID": 969324
                 },
                 {
                     "ap1Name": "geometry",
-                    "ap2Name": "3D shape 1",
-                    "ap2Primary": false,
-                    "ap1ID": 360000,
-                    "ap2ID": 809680
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 969324,
+                    "ap2ID": 289428
                 },
                 {
                     "ap1Name": "geometry",
@@ -262,8 +262,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "Motor and Hardware",
-                    "x": 167,
-                    "y": 89,
+                    "x": 196,
+                    "y": 84,
                     "uniqueID": 409854,
                     "ioValues": []
                 },
