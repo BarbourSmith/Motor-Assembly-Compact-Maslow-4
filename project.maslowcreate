@@ -299,28 +299,6 @@
                     ]
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "GT2 Belt Aproximation ",
-                    "x": 168,
-                    "y": 272,
-                    "uniqueID": 923472,
-                    "projectID": "229325783",
-                    "ioValues": [
-                        {
-                            "name": "Dist Between Centers",
-                            "ioValue": 60
-                        },
-                        {
-                            "name": "Sprocket One Size",
-                            "ioValue": 80
-                        },
-                        {
-                            "name": "Sprocket 2 Size",
-                            "ioValue": 10
-                        }
-                    ]
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 391,
@@ -342,27 +320,6 @@
                     ]
                 },
                 {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 420,
-                    "y": 230,
-                    "uniqueID": 752463,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": -80
-                        }
-                    ]
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 619,
@@ -375,10 +332,6 @@
                         },
                         {
                             "name": "3D shape 3",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 4",
                             "ioValue": 10
                         }
                     ],
@@ -415,24 +368,10 @@
                     "ap2ID": 529463
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap2Primary": true,
-                    "ap1ID": 923472,
-                    "ap2ID": 752463
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "3D shape 3",
                     "ap2Primary": false,
                     "ap1ID": 855372,
-                    "ap2ID": 529463
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 4",
-                    "ap2Primary": false,
-                    "ap1ID": 752463,
                     "ap2ID": 529463
                 },
                 {
