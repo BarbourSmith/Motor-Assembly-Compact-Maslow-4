@@ -3,9 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |ET-WGM58AE|1|$11.00|http://www.etonm.com/|
-|8mm Shaft Coupler|1|$2.70|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
-|8mm Shaft|1|$10.23|https://www.mcmaster.com/1265k64|
 |M4 x 20mm Bolt|4|$0.48|https://www.mcmaster.com/91239a152|
-|Total: |7|$24.41| |
+|Total: |5|$11.48| |
 
- 3xCOG MSRP: $73.22
+ 3xCOG MSRP: $34.43
