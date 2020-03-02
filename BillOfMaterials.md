@@ -2,8 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|ET-WGM58AE|1|$11.00|http://www.etonm.com/|
-|M4 x 20mm Bolt|4|$0.48|https://www.mcmaster.com/91239a152|
-|Total: |5|$11.48| |
+|ET-WGM58AE|2|$11.00|http://www.etonm.com/|
+|Total: |2|$11.00| |
 
- 3xCOG MSRP: $34.43
+ 3xCOG MSRP: $33.00
