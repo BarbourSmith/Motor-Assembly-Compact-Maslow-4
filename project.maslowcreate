@@ -268,6 +268,15 @@
                     "ioValues": []
                 },
                 {
+                    "atomType": "Code",
+                    "name": "Code",
+                    "x": 0.4560761346998536,
+                    "y": 0.6513409961685823,
+                    "uniqueID": 993577,
+                    "ioValues": [],
+                    "code": "//You can learn more about all of the available methods at https://jsxcad.js.org/app/UserGuide.html \n\n\nfunction main(Input1, Input2){\n  return Input1.surfaceCloud();        //return must be geometry;\n}\n\nreturn main(Input1, Input2)"
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 0.9853587115666179,
@@ -281,6 +290,13 @@
                     "ap2Name": "number or geometry",
                     "ap2Primary": false,
                     "ap1ID": 409854
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "Input1",
+                    "ap2Primary": false,
+                    "ap1ID": 409854,
+                    "ap2ID": 993577
                 }
             ],
             "fileTypeVersion": 1
